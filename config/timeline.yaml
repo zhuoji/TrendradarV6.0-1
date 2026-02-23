@@ -225,8 +225,8 @@ presets:
       push: false                  # 默认不推送
       report_mode: "current"
       once:
-        analyze: true              # 每个时段只分析一次
-        push: true                 # 每个时段只推送一次
+        analyze: false              # 每个时段只分析一次
+        push: false                 # 每个时段只推送一次
 
     periods:
       morning_briefing:
