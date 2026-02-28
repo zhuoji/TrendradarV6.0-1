@@ -250,7 +250,7 @@ presets:
 
       closing_summary:
         name: "收工汇总"
-        start: "21:00"
+        start: "22:00"
         end: "23:00"
         analyze: true              # AI 做全天汇总分析
         ai_mode: "daily"           # AI 也分析全天内容
